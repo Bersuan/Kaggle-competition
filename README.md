@@ -1,3 +1,3 @@
 # Kaggle-competition
 
-![FotoPortada](https://raw.githubusercontent.com/Bersuan/Kaggle-competition/master/input/kaggle.jpg)
+![FotoPortada](https://raw.githubusercontent.com/bersuan/Kaggle-competition/master/input/kaggle.jpg)
